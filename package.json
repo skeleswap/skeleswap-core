@@ -43,8 +43,10 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "truffle-hdwallet-provider": "^1.0.17",
+    "@openzeppelin/contracts": "2.5.1",
+    "@truffle/hdwallet-provider": "^1.2.2",
     "truffle": "^5.1.41",
-    "truffle-flattener": "^1.4.4"
+    "truffle-flattener": "^1.4.4",
+    "truffle-hdwallet-provider": "^1.0.17"
   }
 }
